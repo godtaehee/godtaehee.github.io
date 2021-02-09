@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About"
+    url: https://wonderfulhuman.github.io/about
   - title: "Frontend"
     url: https://wonderfulhuman.github.io/frontend
     
