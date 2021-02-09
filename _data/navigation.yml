@@ -2,10 +2,11 @@
 main:
   - title: "About"
     url: https://wonderfulhuman.github.io/about
-  - title: "Frontend"
-    url: https://wonderfulhuman.github.io/frontend
     
-  - title: "Backend"
+  - title: "Categories"
+    url: https://wonderfulhuman.github.io/Categories
+    
+  - title: "Project"
     url: https://wonderfulhuman.github.io/backend
 
   # - title: "Sample Posts"
