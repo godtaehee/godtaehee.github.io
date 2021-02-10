@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : false
 search                   : true
 search_full_content      : # true, false (default)
 search_provider          : lunr
@@ -98,7 +98,7 @@ author:
   avatar           : "/assets/images/Profille.png"
   bio              : "Just Do IT!!"
   location         : "Ludibrium"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "far fa-fw fa-envelope"
