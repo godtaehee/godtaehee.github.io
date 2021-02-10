@@ -4,10 +4,41 @@ permalink: /about/
 layout: single
 ---
 
-## devinlife.github.io 블로그
+<div align=center>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonderfullhuman&count_bg=%232100FF&title_bg=%23FF0000&icon=&icon_color=%232500FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kt0900)](https://solved.ac/kt0900)
+  
+</div>
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+### :running: 발걸음
+- 2009 프리메이플 소울팩 개발
+- 2014 전북대학교 컴퓨터공학부 입학
+- 2018 전북 기능성게임 페스티벌 대상 수상 <a href="https://wonderfulhuman.tistory.com/12">[링크]</a>
 
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+### :clap:  자격증 
+- **_지게차면허_**
+- 정보처리기사 (2019)
+- 리눅스마스터 2급 (2020)
+- 컴퓨터활용능력 1급 필기 (2020)
+
+### :page_with_curl:  해보긴 해본것들 
+`C` `C++` `Java` `Python` <a href="https://github.com/wonderfulhuman/JS">`JavaScript`</a> `Unity` `CSharp`  `JSP` `Spring` `HTML` `CSS`
+
+### :bulb: 관심사
+- 수학
+- <a href="https://www.youtube.com/user/cmiscm">디자인</a>
+
+### :heavy_exclamation_mark: 일일퀘스트
+
+<details><summary><b>2021</b></summary>
+  <dl>
+    <dd><details><summary>2021.01.30</summary>
+      :facepunch: 교보문고 걷고오기<br>
+      :facepunch: 팔굽 100개
+    </details></dd>
+  </dl>
+</details>
+
+
