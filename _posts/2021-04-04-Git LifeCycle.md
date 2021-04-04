@@ -1,5 +1,5 @@
 ---
-title:  "Git LifeCycle"
+title:  "Git LifeCycle - Untracked (1) "
 excerpt: "Git이 파일들을 어떤 Cycle을 통해 관리하는지 알아봅니다."
 layout: single
 classes: wide
@@ -50,3 +50,9 @@ Git을 자유자재로 다루기 위한 제일 기초가되며 제일 중요한 
 - 위으 사진에서 주의깊게 봐야할 것은 처음엔 `Changes not staged for commit`상태였던 파일이 `Changes to be committed` 상태로 변했다는 점 입니다. 그냥 `rm`을 통해서 파일삭제만 하면 `Unstaged`상태가 되며 커밋을 하기위해서 `Staged`상태로 바꿔줘야 합니다.
 
 이렇게 Git-LifeCycle중 Untracked상태를 알아보았습니다. 원래는 다른 상태들도 다루려고 했는데 생각보다 길어져서 이만 끊고 다른 게시글에서 나머지 상태들을 다루겠습니다.
+
+다음 게시글은 Untracked외의 나머지 Git LifeCycle을 다루겠습니다.
+
+[여기](https://wonderfulhuman.github.io/git/Git-LifeCycle/) 에서 볼수있습니다.
+
+댓글 부탁드립니다 :D
