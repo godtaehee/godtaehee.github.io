@@ -160,7 +160,7 @@ pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
-// 인라인 요소 배경색, 글자색
+// 인라인 요소 배경색, 글자색 cadetblue blueviolet
 p > code,
 a > code,
 li > code,
@@ -169,7 +169,7 @@ td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: 0.8em;
-  color: #fd0000;
+  color: blueviolet;
   background: $code-background-color;
   border-radius: $border-radius;
 
