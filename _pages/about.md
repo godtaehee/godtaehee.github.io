@@ -1,5 +1,5 @@
 ---
-title: "자기소개"
+title: ""
 permalink: /about/
 layout: single
 ---
