@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: https://wonderfulhuman.github.io/about
-    
+
   - title: "Categories"
     url: https://wonderfulhuman.github.io/categories
-    
+
   - title: "Project"
-    url: https://wonderfulhuman.github.io/backend
+    url: https://wonderfulhuman.github.io/project
 
   # - title: "Sample Posts"
   #   url: /year-archive/
