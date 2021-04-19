@@ -1,6 +1,6 @@
 ---
-title:  "[JavasSript] JavaScript 시작하기 앞서.."
-excerpt: "자바스크립트 시작하기 앞서 굉장히 도움될만한 내용을 다룹니다."
+title:  "[JavaScript] String 객체"
+excerpt: "자바스크립트 스트링 객체에대해 알아봅니다."
 layout: single
 classes: wide
 categories:

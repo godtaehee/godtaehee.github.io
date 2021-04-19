@@ -1,5 +1,5 @@
 ---
-title:  "Git LifeCycle (2)"
+title:  "[Git] Git LifeCycle (2)"
 excerpt: "Git이 파일들을 어떤 Cycle을 통해 관리하는지 알아봅니다."
 layout: single
 classes: wide

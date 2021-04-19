@@ -1,5 +1,5 @@
 ---
-title:  "zsh에 대하여.."
+title:  "[HTML] Canvas 기본"
 excerpt: "zsh란 무엇이고 oh-my-zsh를 이용해 맥의 bash 터미널 환경을 여러분의 입맛에 맞게 또 사용하기 쉽게 커스터마이징 해보세요"
 layout: single
 classes: wide
