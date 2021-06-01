@@ -13,7 +13,7 @@ tags:
 
 ## length
 문자열의 길이를 반환합니다. (반환형: )
-
+ㅁ
 ![length]({{ site.url }}{{ site.baseurl }}/assets/images/2021-04-19/JS/length.png)
 
 ### 예제
