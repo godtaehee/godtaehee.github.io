@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/development-git-issue/2021-07-03- Git bash쉘과 내장 쉘에서의 hash-object의 해시값이 다름.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-git-issue/2021-07-03-GitBash Push가 안되는 현상.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/development-git-issue/2021-07-03- Git bash쉘과 내장 쉘에서의 hash-object의 해시값이 다름.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-git-issue/2021-07-03-Git bash쉘과 내장 쉘에서의 hash-object의 해시값이 다름.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <updated>1613700037688</updated>
       <workItem from="1625192625548" duration="420000" />
       <workItem from="1625225626682" duration="10474000" />
-      <workItem from="1625238677412" duration="537000" />
+      <workItem from="1625238677412" duration="679000" />
     </task>
     <servers />
   </component>
