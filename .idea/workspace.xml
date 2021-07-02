@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/development-ecma-script/2021-07-03-들어가기.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/development-effective-java/2021-07-02-들어가기.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-effective-java/2021-07-03-들어가기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/development-effective-java/2021-07-03-들어가기.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-effective-java/2021-07-03-들어가기.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-effective-java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-ecma-script" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -43,6 +44,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/development-ecma-script" />
       <recent name="$PROJECT_DIR$/_posts/development-effective-java" />
       <recent name="$PROJECT_DIR$/_posts/development-git-issue" />
       <recent name="$PROJECT_DIR$/_posts/development-git" />
@@ -62,7 +64,7 @@
       <updated>1613700037688</updated>
       <workItem from="1625192625548" duration="420000" />
       <workItem from="1625225626682" duration="10474000" />
-      <workItem from="1625238677412" duration="971000" />
+      <workItem from="1625238677412" duration="1151000" />
     </task>
     <servers />
   </component>
