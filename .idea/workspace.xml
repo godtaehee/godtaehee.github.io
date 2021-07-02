@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/development-git/2021-07-02-Unmodified, Modified, Staged.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/development-git/2021-07-02-템플릿.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-git/2021-07-02-Git에 대한 고찰 (2) - git add, git commit.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/development-git/2021-07-02-템플릿.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1ogEsByTcdXQmFAF7y1XXrerJTs" />
   <component name="ProjectLevelVcsManager">
@@ -52,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613700037688</updated>
       <workItem from="1625192625548" duration="420000" />
-      <workItem from="1625225626682" duration="4367000" />
+      <workItem from="1625225626682" duration="4819000" />
     </task>
     <servers />
   </component>
