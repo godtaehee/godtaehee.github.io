@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/development-git/2021-07-02-Git에 대한 고찰(1) - 로컬저장소와 원격저장소의 이름이 꼭 같아야 푸시가 될까 ?.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/test" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-git/2021-07-02-.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/development-git/2021-07-02-.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-git/2021-07-02-Git 개요와 세팅.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_featured_tags" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-git" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -35,6 +36,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/development-git" />
       <recent name="$PROJECT_DIR$/_featured_tags" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -50,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613700037688</updated>
       <workItem from="1625192625548" duration="420000" />
-      <workItem from="1625225626682" duration="3029000" />
+      <workItem from="1625225626682" duration="3615000" />
     </task>
     <servers />
   </component>
