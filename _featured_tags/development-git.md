@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Design Pattern
-slug: design-pattern
+title: Git
+slug: git
 category: development
 menu: false
-order: 2
+order: 1
 ---

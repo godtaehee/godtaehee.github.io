@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Java
-slug: java
+title: JetBrains
+slug: jetbrains
 category: development
 menu: false
-order: 3
+order: 8
 ---

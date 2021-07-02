@@ -32,7 +32,7 @@ taeheeDev:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       helpful_dev
+    instagram:       _27runner
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -46,7 +46,7 @@ taeheeDev:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          jaeseongDev
+    github:          godtaehee
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -57,8 +57,8 @@ taeheeDev:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:qkrwotjd1445@naver.com
-    rss:             https://jaeseongdev.github.io/feed.xml
+    email:           mailto:godtaeheeDev@gmail.com
+    rss:             https://godtaehee.github.io/feed.xml
 
 # Another author
 mdo:

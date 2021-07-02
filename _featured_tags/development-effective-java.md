@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: OS
-slug: os
+title: Effective Java
+slug: effective java
 category: development
 menu: false
-order: 8
+order: 4
 ---

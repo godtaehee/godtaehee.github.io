@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Self control
-slug: self-control
+title: Thinking
+slug: Thinking
 category: etc
 menu: false
 order: 1

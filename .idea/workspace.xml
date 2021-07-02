@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_featured_tags/development-effective-java.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_featured_tags/development-git.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_categories/book.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_categories/how-to-study.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_tags/development-database.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_tags/development-nodejs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_tags/development-design-pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_tags/development-git-issue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_tags/development-java.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_tags/development-java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_tags/development-linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_tags/development-linux.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_tags/development-os.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_tags/development-jetbrains.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_tags/development-security.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_tags/development-ecma-script.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_tags/development-spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_tags/development-spring.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_tags/development-web.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_tags/development-docker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_tags/etc-self-control.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_tags/etc-self-control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_featured_tags" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -35,6 +49,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_featured_tags" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
@@ -48,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613700037688</updated>
       <workItem from="1625192625548" duration="420000" />
-      <workItem from="1625225626682" duration="588000" />
+      <workItem from="1625225626682" duration="2005000" />
     </task>
     <servers />
   </component>
