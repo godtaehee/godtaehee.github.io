@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/development-git-issue/2021-07-30-git flow init Error.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/2021-06-16-인덱스 뜻.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-B-Tree/Untitled 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-B-Tree/Untitled 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-B-Tree/Untitled 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-B-Tree/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-Lock의 종류 (Shared Lock, Exclusive Lock, Record Lock, Gap Lock, Next-key Lock)/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled 9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-인덱스 뜻, 작동 과정, 장단점, 특징/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled 9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-클러스터 인덱스, 비클러스터 인덱스/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-트랜잭션의 특징 (ACID)/Untitled 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-database/2021-06-16-트랜잭션의 특징 (ACID)/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-os/2021-06-16-멀티스레드, 멀티쓰레드 :  멀티 태스킹 : 멀티 프로세싱 : 프로세스와 스레드의 차이/Untitled 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-os/2021-06-16-멀티스레드, 멀티쓰레드 :  멀티 태스킹 : 멀티 프로세싱 : 프로세스와 스레드의 차이/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-web/2021-06-15-REST의 기본 원칙 6가지/Untitled 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-web/2021-06-15-REST의 기본 원칙 6가지/Untitled 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-web/2021-06-15-REST의 기본 원칙 6가지/Untitled 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-web/2021-06-15-REST의 기본 원칙 6가지/Untitled 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/posts/development-web/2021-06-15-REST의 기본 원칙 6가지/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/projects/hyde-v1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/projects/hyde-v1@0,25x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/projects/hyde-v1@0,5x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/projects/hyde-v2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/projects/hyde-v2@0,25x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/projects/hyde-v2@0,5x.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-spring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-git-issue" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -88,16 +43,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/development-git-issue" />
       <recent name="$PROJECT_DIR$/_posts/development-spring" />
       <recent name="$PROJECT_DIR$/_posts/development-effective-java" />
       <recent name="$PROJECT_DIR$/_posts/development-ecma-script" />
-      <recent name="$PROJECT_DIR$/_posts/development-git-issue" />
       <recent name="$PROJECT_DIR$/_posts/development-git" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/_posts/development-effective-java" />
       <recent name="$PROJECT_DIR$/_posts/development-ecma-script" />
-      <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -115,7 +70,9 @@
       <workItem from="1625444942413" duration="343000" />
       <workItem from="1625573275137" duration="177000" />
       <workItem from="1627565570997" duration="229000" />
-      <workItem from="1627602445520" duration="377000" />
+      <workItem from="1627602445520" duration="608000" />
+      <workItem from="1627603158703" duration="1775000" />
+      <workItem from="1627635704449" duration="598000" />
     </task>
     <servers />
   </component>
