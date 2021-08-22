@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/development-OS/2021-08-21-Kernel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_featured_tags/development-AWS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-AWS/2021-08-21-AWS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-OS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -43,13 +44,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/development-OS" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_featured_tags" />
+      <recent name="$PROJECT_DIR$/_posts/development-OS" />
       <recent name="$PROJECT_DIR$/_posts/development-git-issue" />
       <recent name="$PROJECT_DIR$/_posts/development-spring" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/development-AWS" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/_posts/development-effective-java" />
       <recent name="$PROJECT_DIR$/_posts/development-ecma-script" />
@@ -74,7 +76,11 @@
       <workItem from="1627603158703" duration="1775000" />
       <workItem from="1627635704449" duration="725000" />
       <workItem from="1627690129517" duration="33000" />
-      <workItem from="1629480816461" duration="4909000" />
+      <workItem from="1629480816461" duration="5195000" />
+      <workItem from="1629563703395" duration="519000" />
+      <workItem from="1629564946582" duration="1870000" />
+      <workItem from="1629616499766" duration="990000" />
+      <workItem from="1629635138360" duration="1891000" />
     </task>
     <servers />
   </component>
