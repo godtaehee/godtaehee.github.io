@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_featured_tags/development-WEB.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/development-WEB/2021-08-23-http VS https.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-AWS/2021-08-24-AWS 인스턴스 스펙선정에 대하여...md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-WEB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-AWS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -44,11 +43,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/development-AWS" />
       <recent name="$PROJECT_DIR$/_posts/development-WEB" />
       <recent name="$PROJECT_DIR$/_featured_tags" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_posts/development-OS" />
-      <recent name="$PROJECT_DIR$/_posts/development-git-issue" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/development-AWS" />
@@ -82,7 +81,10 @@
       <workItem from="1629616499766" duration="990000" />
       <workItem from="1629635138360" duration="2765000" />
       <workItem from="1629648655124" duration="112000" />
-      <workItem from="1629651768391" duration="3395000" />
+      <workItem from="1629651768391" duration="3473000" />
+      <workItem from="1629692042622" duration="92000" />
+      <workItem from="1629719608533" duration="252000" />
+      <workItem from="1629734657883" duration="156000" />
     </task>
     <servers />
   </component>
