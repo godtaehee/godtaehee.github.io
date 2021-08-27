@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_featured_tags/development-Nest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest Study 1일차.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest Study 2일차.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +85,12 @@
       <workItem from="1629692042622" duration="92000" />
       <workItem from="1629719608533" duration="252000" />
       <workItem from="1629734657883" duration="443000" />
-      <workItem from="1629816960242" duration="301000" />
+      <workItem from="1629816960242" duration="338000" />
+      <workItem from="1629895762508" duration="759000" />
+      <workItem from="1629897179449" duration="72000" />
+      <workItem from="1629897351509" duration="129000" />
+      <workItem from="1629991863570" duration="9640000" />
+      <workItem from="1630068644696" duration="1606000" />
     </task>
     <servers />
   </component>
