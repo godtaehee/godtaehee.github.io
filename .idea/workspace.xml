@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest Study 2일차.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-ecma-script/2021-08-28-Refactoring 2nd edition.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-Nest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-ecma-script" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -43,11 +43,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/development-ecma-script" />
       <recent name="$PROJECT_DIR$/_posts/development-Nest" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_featured_tags" />
       <recent name="$PROJECT_DIR$/_posts/development-AWS" />
-      <recent name="$PROJECT_DIR$/_posts/development-WEB" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/development-AWS" />
@@ -90,7 +90,8 @@
       <workItem from="1629897179449" duration="72000" />
       <workItem from="1629897351509" duration="129000" />
       <workItem from="1629991863570" duration="9640000" />
-      <workItem from="1630068644696" duration="1606000" />
+      <workItem from="1630068644696" duration="1693000" />
+      <workItem from="1630154950410" duration="1446000" />
     </task>
     <servers />
   </component>
