@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/development-ecma-script/2021-08-28-Refactoring 2nd edition.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/development-ecma-script/2021-08-28-Refactoring 2nd edition.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-ecma-script/2021-08-28-Refactoring 2nd edition.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,9 @@
       <workItem from="1629897351509" duration="129000" />
       <workItem from="1629991863570" duration="9640000" />
       <workItem from="1630068644696" duration="1693000" />
-      <workItem from="1630154950410" duration="1446000" />
+      <workItem from="1630154950410" duration="1670000" />
+      <workItem from="1630205827137" duration="112000" />
+      <workItem from="1630239299796" duration="279000" />
     </task>
     <servers />
   </component>
