@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/development-WEB/2021-09-06-Node.js vs Spring Boot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-09-08-Nest Authentication.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-09-08-Nest Controller.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-09-08-Nest Provider.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest Study 1일차.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest Study 1일차.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest will automatically await everything in controller.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest will automatically await everything in controller.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/development-WEB/2021-09-06-Node.js vs Spring Boot.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-WEB/2021-09-06-Node.js vs Spring Boot.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-WEB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-Nest" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -43,9 +48,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/development-Nest" />
       <recent name="$PROJECT_DIR$/_posts/development-WEB" />
       <recent name="$PROJECT_DIR$/_posts/development-ecma-script" />
-      <recent name="$PROJECT_DIR$/_posts/development-Nest" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_featured_tags" />
     </key>
@@ -94,7 +99,9 @@
       <workItem from="1630154950410" duration="1670000" />
       <workItem from="1630205827137" duration="112000" />
       <workItem from="1630239299796" duration="2330000" />
-      <workItem from="1630937597114" duration="2208000" />
+      <workItem from="1630937597114" duration="4239000" />
+      <workItem from="1631070297035" duration="249000" />
+      <workItem from="1631070920957" duration="12586000" />
     </task>
     <servers />
   </component>
