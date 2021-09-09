@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-09-08-Nest Controller.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_featured_tags/development-Database.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-Database/2021-09-09-정규화와 비정규화.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-Nest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/development-Database" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -43,11 +44,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/development-Nest" />
-      <recent name="$PROJECT_DIR$/_posts/development-WEB" />
-      <recent name="$PROJECT_DIR$/_posts/development-ecma-script" />
+      <recent name="$PROJECT_DIR$/_posts/development-Database" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_featured_tags" />
+      <recent name="$PROJECT_DIR$/_posts/development-Nest" />
+      <recent name="$PROJECT_DIR$/_posts/development-WEB" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/development-AWS" />
@@ -96,7 +97,9 @@
       <workItem from="1630239299796" duration="2330000" />
       <workItem from="1630937597114" duration="4239000" />
       <workItem from="1631070297035" duration="249000" />
-      <workItem from="1631070920957" duration="14559000" />
+      <workItem from="1631070920957" duration="14682000" />
+      <workItem from="1631165311147" duration="780000" />
+      <workItem from="1631166609855" duration="3701000" />
     </task>
     <servers />
   </component>
