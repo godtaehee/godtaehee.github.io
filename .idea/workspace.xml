@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-09-08-Nest Authentication.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-09-08-Nest Controller.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-09-08-Nest Provider.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest Study 1일차.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest Study 1일차.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest will automatically await everything in controller.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-Nest/2021-08-21-Nest will automatically await everything in controller.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/development-WEB/2021-09-06-Node.js vs Spring Boot.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-WEB/2021-09-06-Node.js vs Spring Boot.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +96,7 @@
       <workItem from="1630239299796" duration="2330000" />
       <workItem from="1630937597114" duration="4239000" />
       <workItem from="1631070297035" duration="249000" />
-      <workItem from="1631070920957" duration="12586000" />
+      <workItem from="1631070920957" duration="14559000" />
     </task>
     <servers />
   </component>
