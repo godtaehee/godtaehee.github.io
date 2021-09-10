@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1eb2f5-04ab-42ac-b00e-fe87e5bf70c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/development-Database/2021-09-10-SQL 문자열 집계함수.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/development-Database/2021-09-10-SQL 숫자 집계함수.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/development-Database/2021-09-10-SQL 문자열 집계함수.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/development-Database/2021-09-10-SQL 문자열 집계함수.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,7 @@
       <workItem from="1631165311147" duration="780000" />
       <workItem from="1631166609855" duration="3925000" />
       <workItem from="1631244213479" duration="2530000" />
-      <workItem from="1631248336256" duration="1460000" />
+      <workItem from="1631248336256" duration="1918000" />
     </task>
     <servers />
   </component>
