@@ -2,7 +2,7 @@
 layout: post
 title:  "Git 개요와 세팅"
 subtitle: "Git의 기본 개요와 세팅에 대해서 알아봅니다."
-categories: development
+categories: legacy
 tags: git
 comments: true
 ---

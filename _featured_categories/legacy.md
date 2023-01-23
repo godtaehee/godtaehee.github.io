@@ -1,10 +1,10 @@
 ---
 layout: list
 title: Legacy
-slug: etc
+slug: legacy
 menu: true
 submenu: true
-order: 4
+order: 3
 description: >
   2023.1.23 이전 블로그 글
 ---

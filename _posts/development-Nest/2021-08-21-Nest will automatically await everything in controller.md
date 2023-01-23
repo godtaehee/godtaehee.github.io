@@ -2,7 +2,7 @@
 layout: post
 title:  "Nest will automatically await everything in controller"
 subtitle: "Nest.js가 async/await를 처리해주는데 있어서 재밌는것을 발견하여 글을 올립니다."
-categories: development
+categories: legacy
 tags: nest
 comments: true
 ---

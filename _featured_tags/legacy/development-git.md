@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Git
 slug: git
-category: development
+category: legacy
 menu: false
 order: 1
 ---

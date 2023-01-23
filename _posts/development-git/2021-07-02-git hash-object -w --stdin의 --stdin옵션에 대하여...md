@@ -2,7 +2,7 @@
 layout: post
 title:  "git hash-object -w --stdin의 --stdin옵션에 대하여.."
 subtitle: "git hash-object 의 특정 옵션에 대해서 알아봅니다."
-categories: development
+categories: legacy
 tags: git
 comments: true
 ---

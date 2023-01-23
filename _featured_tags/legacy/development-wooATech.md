@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: 
-slug: AWS
-category: development
+title: Tech Seminar
+slug: Tech Seminar
+category: legacy
 menu: false
 order: 12
 ---

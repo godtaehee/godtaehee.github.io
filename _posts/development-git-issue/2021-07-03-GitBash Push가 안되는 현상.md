@@ -2,7 +2,7 @@
 layout: post
 title:  "GitBash Push가 안되는 현상"
 subtitle: "정말 많이 일어나는 Issue인 push 멈춤현상"
-categories: development
+categories: legacy
 tags: git-issue
 comments: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Nest First Step"
 subtitle: "Nest First Step에 대하여.."
-categories: development
+categories: legacy
 tags: nest
 comments: true
 ---

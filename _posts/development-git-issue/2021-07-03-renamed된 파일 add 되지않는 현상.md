@@ -2,7 +2,7 @@
 layout: post
 title:  "renamed된 파일 add 되지않는 현상"
 subtitle: "프로젝트 진행중 renamed관련한 이슈입니다."
-categories: development
+categories: legacy
 tags: git-issue
 comments: true
 ---

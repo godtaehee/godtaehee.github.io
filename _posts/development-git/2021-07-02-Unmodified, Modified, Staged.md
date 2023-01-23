@@ -2,7 +2,7 @@
 layout: post
 title:  "Unmodified, Modified, Staged"
 subtitle: "Git LifeCycle인 Unmodified, Modified, Staged에 대해서 알아봅니다."
-categories: development
+categories: legacy
 tags: git
 comments: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Lexical Environment (렉시컬 환경) - 변수"
 subtitle: "Lexical Environment에 대해서 알아봅니다."
-categories: development
+categories: legacy
 tags: ecma-script
 comments: true
 ---

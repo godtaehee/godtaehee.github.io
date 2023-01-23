@@ -2,7 +2,7 @@
 layout: post
 title:  "git flow init Error"
 subtitle: "git flow init시 원인불명의 오류를 다룹니다."
-categories: development
+categories: legacy
 tags: git-issue
 comments: true
 ---

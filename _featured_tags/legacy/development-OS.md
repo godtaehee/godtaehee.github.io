@@ -2,7 +2,7 @@
 layout: tag-blog
 title: OS
 slug: Operating System
-category: development
+category: legacy
 menu: false
 order: 11
 ---

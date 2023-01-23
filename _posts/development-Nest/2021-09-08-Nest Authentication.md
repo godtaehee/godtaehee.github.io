@@ -2,7 +2,7 @@
 layout: post
 title:  "Nest Authentication"
 subtitle: "Nest Authentication with Passport"
-categories: development
+categories: legacy
 tags: ecma-script
 comments: true
 ---

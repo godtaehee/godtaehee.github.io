@@ -2,7 +2,7 @@
 layout: post
 title:  "Nest Controller"
 subtitle: "Nest Controller란?"
-categories: development
+categories: legacy
 tags: nest
 comments: true
 ---

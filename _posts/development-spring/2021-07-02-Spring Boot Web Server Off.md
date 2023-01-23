@@ -2,7 +2,7 @@
 layout: post
 title:  "Spring Boot Web Server Off"
 subtitle: "Spring Boot Web Server를 Off하는 방법을 알아봅니다."
-categories: development
+categories: legacy
 tags: spring
 comments: true
 ---

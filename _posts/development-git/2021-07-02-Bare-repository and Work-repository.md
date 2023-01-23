@@ -2,7 +2,7 @@
 layout: post
 title:  "Bare-repository and Work-repository"
 subtitle: "Bare-repository와 Work-repository에 대해서 알아봅니다."
-categories: development
+categories: legacy
 tags: git
 comments: true
 ---

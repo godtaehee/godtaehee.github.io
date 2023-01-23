@@ -2,7 +2,7 @@
 layout: post
 title:  "Dependency Management"
 subtitle: "Spring Boot의 의존성 관리를 알아봅니다."
-categories: development
+categories: legacy
 tags: spring
 comments: true
 ---

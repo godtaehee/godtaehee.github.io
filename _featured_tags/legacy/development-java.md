@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Java
 slug: java
-category: development
+category: legacy
 menu: false
 order: 3
 ---

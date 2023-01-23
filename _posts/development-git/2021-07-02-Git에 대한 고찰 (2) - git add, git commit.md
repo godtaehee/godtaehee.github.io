@@ -2,7 +2,7 @@
 layout: post
 title:  "Git에 대한 고찰 (2) - git add, git commit"
 subtitle: "add, commit에 대해서 알아봅니다."
-categories: development
+categories: legacy
 tags: git
 comments: true
 ---

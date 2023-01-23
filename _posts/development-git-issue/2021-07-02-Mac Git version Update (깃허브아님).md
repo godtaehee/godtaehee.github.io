@@ -2,7 +2,7 @@
 layout: post
 title:  "Mac Git version Update (깃허브아님)"
 subtitle: "Mac의 Git을 업데이트합니다."
-categories: development
+categories: legacy
 tags: git-issue
 comments: true
 ---

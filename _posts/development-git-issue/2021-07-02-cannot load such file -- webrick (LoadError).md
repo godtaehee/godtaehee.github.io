@@ -2,7 +2,7 @@
 layout: post
 title:  "cannot load such file -- webrick (LoadError)"
 subtitle: "webrick 오류에 대해서 알아봅니다."
-categories: development
+categories: legacy
 tags: git-issue
 comments: true
 ---

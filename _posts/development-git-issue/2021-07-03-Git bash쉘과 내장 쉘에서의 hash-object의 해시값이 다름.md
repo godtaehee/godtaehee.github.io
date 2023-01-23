@@ -2,7 +2,7 @@
 layout: post
 title:  "Git bash쉘과 내장 쉘에서의 hash-object의 해시값이 다름"
 subtitle: "Git bash쉘과 내장 쉘에서의 hash-object의 해시값이 다름에 대해서 다룹니다."
-categories: development
+categories: legacy
 tags: git-issue
 comments: true
 ---

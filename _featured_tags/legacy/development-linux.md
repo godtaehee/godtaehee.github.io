@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Linux
 slug: linux
-category: development
+category: legacy
 menu: false
 order: 7
 ---

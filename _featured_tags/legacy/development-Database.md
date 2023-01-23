@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Database
 slug: Database
-category: development
+category: legacy
 menu: false
 order: 15
 ---

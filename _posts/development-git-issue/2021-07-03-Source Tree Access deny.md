@@ -2,7 +2,7 @@
 layout: post
 title:  "Source Tree Access deny"
 subtitle: "Source Tree Access deny Issue에 대해서 다룹니다."
-categories: development
+categories: legacy
 tags: git-issue
 comments: true
 ---

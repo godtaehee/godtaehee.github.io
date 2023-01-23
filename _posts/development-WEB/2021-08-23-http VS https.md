@@ -2,7 +2,7 @@
 layout: post
 title:  "HTTP vs HTTPS"
 subtitle: "HTTP와 HTTPS의 차이점을 알아봅시다."
-categories: development
+categories: legacy
 tags: spring
 comments: true
 ---

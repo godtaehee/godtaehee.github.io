@@ -2,7 +2,7 @@
 layout: post
 title:  "Private Branch"
 subtitle: "Private Branch란?"
-categories: development
+categories: legacy
 tags: git-issue
 comments: true
 ---

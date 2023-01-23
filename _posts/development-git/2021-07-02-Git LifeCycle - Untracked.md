@@ -2,7 +2,7 @@
 layout: post
 title:  "Git LifeCycle - Untracked"
 subtitle: "Untracked 상태에 대해서 알아봅니다."
-categories: development
+categories: legacy
 tags: git
 comments: true
 ---

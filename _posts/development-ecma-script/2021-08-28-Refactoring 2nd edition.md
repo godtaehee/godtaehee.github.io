@@ -2,7 +2,7 @@
 layout: post
 title:  "Refactoring 2nd edition"
 subtitle: "리팩토링 공부 시작!"
-categories: development
+categories: legacy
 tags: ecma-script
 comments: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Git 내부 - Plumbing명령과 Porcelain 명령"
 subtitle: "Git 내부의 저수준 명령어들을 알아봅니다."
-categories: development
+categories: legacy
 tags: git
 comments: true
 ---

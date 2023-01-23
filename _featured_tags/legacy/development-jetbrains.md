@@ -2,7 +2,7 @@
 layout: tag-blog
 title: JetBrains
 slug: jetbrains
-category: development
+category: legacy
 menu: false
 order: 8
 ---
